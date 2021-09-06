@@ -8,7 +8,7 @@ See my Github [repository](https://github.com/salomohutapea?tab=repositories).
 
 - 🏠 Originated from **Medan, North Sumatra**, currently live in **Sleman, Yogyakarta**
 
-- 📖 3rd year student at **Information Engineering, Gadjah Mada University**
+- 📖 Final year student at **Information Engineering, Gadjah Mada University**
 
 <br/>
 
