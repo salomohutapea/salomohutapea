@@ -1,13 +1,26 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Salomo Hutapea</h3>
-<!-- I'm [Salomo Hutapea](https://salomohutapea.me). I’m interested in Android and web apps. -->
 <h6 align="center">Native Android App and Front-End Web Developer</h6>
 <p align="center">
   <img width="32" alt="Frame 7" src="https://user-images.githubusercontent.com/44262385/152700677-5a1811c4-3a9f-45d8-9935-44d5a5a565eb.png">
   <img width="32" alt="Frame 22" src="https://user-images.githubusercontent.com/44262385/152700683-dab25c70-a024-4eb3-b2b5-34b90718c5fa.png">
-</p> 
+</p>
+<a align="center" target="blank" href="https://salomohutapea.me">
+  <p>salomohutapea.me</p>
+</a>
+
 <hr/>
-<h4 align="center">TECH STACK</h4>
+<h3 align="center">Contacts</h3>
+<a align="center" target="blank" href="mailto:sal@salomohutapea.me">
+  <p>sal@salomohutapea.me</p>
+</a>
+<h6 align="center">OR</h6>
+<a align="center" target="blank" href="https://linkedin.com/in/salomohutapea">
+  <p>Linkedin</p>
+</a>
+
+<hr/>
+<h3 align="center">TECH STACK</h3>
 <h5 align="center">Web Development</h5>
 <p align="center">
   <img width="203" alt="Group 8" src="https://user-images.githubusercontent.com/44262385/152700149-7e4c51e0-ff7f-41b3-b60c-1e06042cfb1d.png">
