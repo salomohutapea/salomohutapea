@@ -6,17 +6,17 @@
   <img width="32" alt="Frame 22" src="https://user-images.githubusercontent.com/44262385/152700683-dab25c70-a024-4eb3-b2b5-34b90718c5fa.png">
 </p>
 <a align="center" target="blank" href="https://salomohutapea.me">
-  <p>salomohutapea.me</p>
+  <p align="center">salomohutapea.me</p>
 </a>
 
 <hr/>
 <h3 align="center">Contacts</h3>
 <a align="center" target="blank" href="mailto:sal@salomohutapea.me">
-  <p>sal@salomohutapea.me</p>
+  <p align="center">sal@salomohutapea.me</p>
 </a>
 <h6 align="center">OR</h6>
 <a align="center" target="blank" href="https://linkedin.com/in/salomohutapea">
-  <p>Linkedin</p>
+  <p align="center">Linkedin</p>
 </a>
 
 <hr/>
